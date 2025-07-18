@@ -64,4 +64,9 @@ Include key plots:
    ```bash
    pip install -r requirements.txt
 pip install -r requirements.txt
+## Visuals
+
+![Churn Distribution](churn_distribution.png)
+![SHAP Summary Plot](shap_summary.png)
+
 
