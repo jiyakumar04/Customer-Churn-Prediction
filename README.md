@@ -1,4 +1,4 @@
-# **Customer Churn Prediction – Banking Domain**
+# **Customer_Churn_Prediction – Banking Domain**
 
 ## **Project Overview**
 Customer churn is a critical challenge in the banking industry. This project uses machine learning to predict whether a customer will leave (churn) based on demographic and account-related features. The aim is to help banks identify high-risk customers early and implement targeted retention strategies.
